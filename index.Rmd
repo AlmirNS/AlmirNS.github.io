@@ -1,0 +1,14 @@
+---
+title: "Almir Novais Santos"
+image: "ima1.jpeg"
+links:
+  - label: Lattes
+    url: " http://lattes.cnpq.br/1306172813646350"
+  - label: GitHub
+    url: "https://github.com/AlmirNS"
+  - label: Email
+    url: "almirnovais107@gmail.com"
+output:
+  postcards::jolla_blue
+---
+ 
