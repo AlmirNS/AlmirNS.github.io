@@ -7,7 +7,7 @@ links:
   - label: GitHub
     url: "https://github.com/AlmirNS"
   - label: Email
-    url: "almirnovais107@gmail.com"
+    url: "mailto:almirnovais107@gmail.com"
 output:
   postcards::jolla_blue
 ---
